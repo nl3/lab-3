@@ -4,12 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab3
+
+    namespace lab3
 {
     class Money
     {
         static void Main(string[] args)
         {
+            //something new
         }
     }
 }
