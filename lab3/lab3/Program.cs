@@ -10,6 +10,7 @@ namespace lab3
     {
         static void Main(string[] args)
         {
+            //something new
         }
     }
 }
