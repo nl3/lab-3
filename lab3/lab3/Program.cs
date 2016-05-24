@@ -11,7 +11,11 @@ using System.Threading.Tasks;
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             //something new
+=======
+            //something new edit
+>>>>>>> origin/BusinesCard
         }
     }
 }
