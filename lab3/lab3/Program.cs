@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lab3
 {
-    class Purse
+    class Money
     {
         static void Main(string[] args)
         {
