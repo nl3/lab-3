@@ -4,3 +4,6 @@ C:\Users\Admin\Desktop\Lab3\lab3\lab3\bin\Debug\lab3.pdb
 C:\Users\Admin\Desktop\Lab3\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Desktop\Lab3\lab3\lab3\obj\Debug\lab3.exe
 C:\Users\Admin\Desktop\Lab3\lab3\lab3\obj\Debug\lab3.pdb
+D:\Наталіна\5 курс\Git\lab-3\lab3\lab3\bin\Debug\lab3.exe.config
+D:\Наталіна\5 курс\Git\lab-3\lab3\lab3\obj\Debug\lab3.exe
+D:\Наталіна\5 курс\Git\lab-3\lab3\lab3\obj\Debug\lab3.pdb

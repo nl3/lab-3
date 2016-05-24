@@ -1,0 +1,3 @@
+C:\Users\Наталя\Desktop\Lab3\BusinessCard\BusinessCard\bin\Debug\BusinessCard.exe.config
+C:\Users\Наталя\Desktop\Lab3\BusinessCard\BusinessCard\obj\Debug\BusinessCard.csprojResolveAssemblyReference.cache
+D:\Наталіна\lab3\BusinessCard\BusinessCard\bin\Debug\BusinessCard.exe.config
