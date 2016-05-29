@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CreditCard
 {
-    class CreditCard
+    class CreditCards
     {
         static void Main(string[] args)
         {
